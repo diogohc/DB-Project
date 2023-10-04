@@ -1,9 +1,9 @@
-# Projeto de Bases de Dados
+# Database Project
 
-Tecnologias usadas:
+Tech Stack:
 
 	- Python
-  
+ 	- Flask
 	- PostgreSQL
-  
 	- JSON
+ 	- JWT
